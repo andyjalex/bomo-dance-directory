@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import ComingUpEvents from "@/components/ComingUpEvents";
 import HomeTimetable from "@/components/HomeTimetable";
+import Image from 'next/image'
 import {
   getAllLevels,
   getAllStyles,
@@ -36,8 +37,8 @@ export default function HomePage() {
             week and find a class that welcomes beginners.
           </p>
         </div>
-        <div className="flex min-h-48 flex-1 items-center justify-center rounded-2xl border border-dashed border-white/40 bg-sea-dark p-6 text-center text-sm text-white/70 lg:min-h-64">
-          [Photo: dancers at a seafront venue at sunset]
+        <div className="flex min-h-48 flex-1 items-center justify-center rounded-2xl bg-sea-dark text-center text-sm text-white/70 lg:min-h-64 w-full overflow-hidden">
+          <Image src="/bc-photo.jpeg" alt="cover" width="300" height="800" className="w-full h-full object-cover"></Image>
         </div>
       </section>
 
