@@ -1,0 +1,110 @@
+[
+  {
+    "id": "EV001",
+    "slug": "bachata-connection-example-halloween-bachata-social",
+    "title": "Example: Halloween Bachata Social",
+    "provider": "Bachata Connection",
+    "providerSlug": "bachata-connection",
+    "styles": [
+      {
+        "name": "Bachata",
+        "slug": "bachata"
+      }
+    ],
+    "startDate": "2026-10-31",
+    "startTime": "20:00",
+    "endDate": null,
+    "endTime": "23:30",
+    "venue": "Queens Hotel, Meyrick Rd",
+    "venueShort": "Queens Hotel",
+    "venueSlug": "queens-hotel-meyrick-rd",
+    "town": "Bournemouth",
+    "price": "£10",
+    "ticketUrl": "https://example.com/tickets",
+    "description": "Fancy dress optional. Short beginner taster at 8pm then social dancing.",
+    "image": null,
+    "featured": false,
+    "status": "Example"
+  },
+  {
+    "id": "EV002",
+    "slug": "salsa-explosion-example-bournemouth-salsa-social",
+    "title": "Example: Bournemouth Salsa Social",
+    "provider": "Salsa Explosion",
+    "providerSlug": "salsa-explosion",
+    "styles": [
+      {
+        "name": "Salsa",
+        "slug": "salsa"
+      }
+    ],
+    "startDate": "2026-10-17",
+    "startTime": "20:00",
+    "endDate": null,
+    "endTime": "23:00",
+    "venue": "BOH Studios, 104 Commercial Rd",
+    "venueShort": "BOH Studios",
+    "venueSlug": "boh-studios-104-commercial-rd",
+    "town": "Bournemouth",
+    "price": "£8",
+    "ticketUrl": "https://example.com/tickets/salsa-social",
+    "description": "Monthly social with a short routine taught at 8pm then social dancing all night.",
+    "image": null,
+    "featured": true,
+    "status": "Confirmed"
+  },
+  {
+    "id": "EV003",
+    "slug": "bachata-connection-example-bachata-sensual-workshop",
+    "title": "Example: Bachata Sensual Workshop",
+    "provider": "Bachata Connection",
+    "providerSlug": "bachata-connection",
+    "styles": [
+      {
+        "name": "Bachata",
+        "slug": "bachata"
+      }
+    ],
+    "startDate": "2026-10-24",
+    "startTime": "14:00",
+    "endDate": null,
+    "endTime": "16:00",
+    "venue": "Hotel Collingwood",
+    "venueShort": "Hotel Collingwood",
+    "venueSlug": "hotel-collingwood",
+    "town": "Bournemouth",
+    "price": "£15",
+    "ticketUrl": "https://example.com/tickets/bachata-workshop",
+    "description": "A two-hour sensual bachata workshop for improvers.",
+    "image": null,
+    "featured": false,
+    "status": "Confirmed"
+  },
+  {
+    "id": "EV004",
+    "slug": "urban-shanti-example-kizomba-congress-weekend",
+    "title": "Example: Kizomba Congress Weekend",
+    "provider": "Urban Shanti",
+    "providerSlug": "urban-shanti",
+    "styles": [
+      {
+        "name": "Kizomba",
+        "slug": "kizomba"
+      }
+    ],
+    "startDate": "2026-11-07",
+    "startTime": "19:00",
+    "endDate": "2026-11-08",
+    "endTime": "22:00",
+    "venue": "Urban Shanti",
+    "venueShort": "Urban Shanti",
+    "venueSlug": "urban-shanti",
+    "town": "Bournemouth",
+    "price": "£45",
+    "ticketUrl": "https://example.com/tickets/kizomba-congress",
+    "description": "A weekend of workshops and socials with guest instructors.",
+    "image": null,
+    "featured": true,
+    "status": "Confirmed"
+  }
+]

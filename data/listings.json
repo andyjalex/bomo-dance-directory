@@ -1,0 +1,412 @@
+[
+  {
+    "id": "BD001",
+    "slug": "bachata-connection-bachata-class",
+    "provider": "Bachata Connection",
+    "providerSlug": "bachata-connection",
+    "className": "Bachata class",
+    "styles": [
+      {
+        "name": "Bachata",
+        "slug": "bachata"
+      }
+    ],
+    "day": "Tuesday",
+    "startTime": "19:30",
+    "venue": "Queens Hotel, Meyrick Rd",
+    "venueShort": "Queens Hotel",
+    "venueSlug": "queens-hotel-meyrick-rd",
+    "town": "Bournemouth",
+    "level": null,
+    "price": null,
+    "website": null,
+    "status": "Confirmed",
+    "notes": "Start time from Google listing",
+    "cancelledDates": []
+  },
+  {
+    "id": "BD002",
+    "slug": "salsa-explosion-beginner-salsa",
+    "provider": "Salsa Explosion",
+    "providerSlug": "salsa-explosion",
+    "className": "Beginner salsa",
+    "styles": [
+      {
+        "name": "Salsa",
+        "slug": "salsa"
+      }
+    ],
+    "day": "Thursday",
+    "startTime": "19:00",
+    "venue": "BOH Studios, 104 Commercial Rd",
+    "venueShort": "BOH Studios",
+    "venueSlug": "boh-studios-104-commercial-rd",
+    "town": "Bournemouth",
+    "level": "Beginner",
+    "price": null,
+    "website": null,
+    "status": "Confirmed",
+    "notes": null,
+    "cancelledDates": [
+      "2026-10-15"
+    ]
+  },
+  {
+    "id": "BD003",
+    "slug": "salsa-explosion-rueda-de-casino",
+    "provider": "Salsa Explosion",
+    "providerSlug": "salsa-explosion",
+    "className": "Rueda de Casino",
+    "styles": [
+      {
+        "name": "Salsa",
+        "slug": "salsa"
+      }
+    ],
+    "day": "Thursday",
+    "startTime": "19:00",
+    "venue": "BOH Studios, 104 Commercial Rd",
+    "venueShort": "BOH Studios",
+    "venueSlug": "boh-studios-104-commercial-rd",
+    "town": "Bournemouth",
+    "level": null,
+    "price": null,
+    "website": null,
+    "status": "Confirmed",
+    "notes": "Cuban-style group salsa danced in a circle",
+    "cancelledDates": []
+  },
+  {
+    "id": "BD004",
+    "slug": "salsa-explosion-partnerwork",
+    "provider": "Salsa Explosion",
+    "providerSlug": "salsa-explosion",
+    "className": "Partnerwork",
+    "styles": [
+      {
+        "name": "Salsa",
+        "slug": "salsa"
+      }
+    ],
+    "day": "Thursday",
+    "startTime": "20:00",
+    "venue": "BOH Studios, 104 Commercial Rd",
+    "venueShort": "BOH Studios",
+    "venueSlug": "boh-studios-104-commercial-rd",
+    "town": "Bournemouth",
+    "level": "All levels",
+    "price": null,
+    "website": null,
+    "status": "Confirmed",
+    "notes": null,
+    "cancelledDates": []
+  },
+  {
+    "id": "BD005",
+    "slug": "salsa-explosion-social-dancing",
+    "provider": "Salsa Explosion",
+    "providerSlug": "salsa-explosion",
+    "className": "Social dancing",
+    "styles": [
+      {
+        "name": "Salsa",
+        "slug": "salsa"
+      }
+    ],
+    "day": "Thursday",
+    "startTime": "21:00",
+    "venue": "BOH Studios, 104 Commercial Rd",
+    "venueShort": "BOH Studios",
+    "venueSlug": "boh-studios-104-commercial-rd",
+    "town": "Bournemouth",
+    "level": "Social / freestyle",
+    "price": null,
+    "website": null,
+    "status": "Confirmed",
+    "notes": "Social after classes",
+    "cancelledDates": []
+  },
+  {
+    "id": "BD006",
+    "slug": "salsa-explosion-salsa-class",
+    "provider": "Salsa Explosion",
+    "providerSlug": "salsa-explosion",
+    "className": "Salsa class",
+    "styles": [
+      {
+        "name": "Salsa",
+        "slug": "salsa"
+      }
+    ],
+    "day": "Monday",
+    "startTime": null,
+    "venue": null,
+    "venueShort": null,
+    "venueSlug": null,
+    "town": "Bournemouth",
+    "level": null,
+    "price": null,
+    "website": null,
+    "status": "To verify",
+    "notes": "Not sure they run Mondays - check; venue unknown",
+    "cancelledDates": []
+  },
+  {
+    "id": "BD007",
+    "slug": "boh-dance-bachata-class",
+    "provider": "BOH Dance",
+    "providerSlug": "boh-dance",
+    "className": "Bachata class",
+    "styles": [
+      {
+        "name": "Bachata",
+        "slug": "bachata"
+      }
+    ],
+    "day": "Wednesday",
+    "startTime": null,
+    "venue": "BOH Studios, 104 Commercial Rd",
+    "venueShort": "BOH Studios",
+    "venueSlug": "boh-studios-104-commercial-rd",
+    "town": "Bournemouth",
+    "level": null,
+    "price": null,
+    "website": "boh-studios.com",
+    "status": "Confirmed",
+    "notes": null,
+    "cancelledDates": []
+  },
+  {
+    "id": "BD008",
+    "slug": "just-dance-salsa-crossbody-salsa-social-after-class",
+    "provider": "Just Dance Salsa",
+    "providerSlug": "just-dance-salsa",
+    "className": "Crossbody salsa, social after class",
+    "styles": [
+      {
+        "name": "Salsa",
+        "slug": "salsa"
+      }
+    ],
+    "day": "Thursday",
+    "startTime": "19:00",
+    "venue": "Hotel Collingwood",
+    "venueShort": "Hotel Collingwood",
+    "venueSlug": "hotel-collingwood",
+    "town": "Bournemouth",
+    "level": "Beginner",
+    "price": null,
+    "website": "justdancesalsa.co.uk",
+    "status": "Confirmed",
+    "notes": "Google Maps also shows Queens Hotel - check current venue",
+    "cancelledDates": []
+  },
+  {
+    "id": "BD009",
+    "slug": "urban-shanti-kizomba-and-urban-kiz-essence-of-her",
+    "provider": "Urban Shanti",
+    "providerSlug": "urban-shanti",
+    "className": "Kizomba & Urban Kiz; Essence of Her",
+    "styles": [
+      {
+        "name": "Kizomba",
+        "slug": "kizomba"
+      }
+    ],
+    "day": "Tuesday",
+    "startTime": null,
+    "venue": "Urban Shanti",
+    "venueShort": "Urban Shanti",
+    "venueSlug": "urban-shanti",
+    "town": "Bournemouth",
+    "level": null,
+    "price": null,
+    "website": "urbanshantibournemouth.co.uk",
+    "status": "Confirmed",
+    "notes": null,
+    "cancelledDates": []
+  },
+  {
+    "id": "BD010",
+    "slug": "bh-salsa-crossbody-salsa-classes-and-social",
+    "provider": "BH Salsa",
+    "providerSlug": "bh-salsa",
+    "className": "Crossbody salsa classes & social",
+    "styles": [
+      {
+        "name": "Salsa",
+        "slug": "salsa"
+      }
+    ],
+    "day": "Monday",
+    "startTime": null,
+    "venue": null,
+    "venueShort": null,
+    "venueSlug": null,
+    "town": "Bournemouth",
+    "level": null,
+    "price": null,
+    "website": "Facebook: BH Salsa / Instagram bh.salsa",
+    "status": "To verify",
+    "notes": "Venue unknown - Facebook bio says BOH Studios but may be out of date. Facebook page only - no website",
+    "cancelledDates": []
+  },
+  {
+    "id": "BD011",
+    "slug": "salsa-kizomba-bournemouth-beginner-salsa-kizomba-and-urban-kiz",
+    "provider": "Salsa Kizomba Bournemouth",
+    "providerSlug": "salsa-kizomba-bournemouth",
+    "className": "Beginner salsa, kizomba & urban kiz",
+    "styles": [
+      {
+        "name": "Salsa",
+        "slug": "salsa"
+      }
+    ],
+    "day": "Thursday",
+    "startTime": null,
+    "venue": "Urban Shanti",
+    "venueShort": "Urban Shanti",
+    "venueSlug": "urban-shanti",
+    "town": "Bournemouth",
+    "level": "Beginner",
+    "price": null,
+    "website": "urbanshantibournemouth.co.uk",
+    "status": "To verify",
+    "notes": "May overlap with Urban Shanti rows",
+    "cancelledDates": []
+  },
+  {
+    "id": "BD012",
+    "slug": "latino-beat-tango-latino-salsa",
+    "provider": "Latino Beat",
+    "providerSlug": "latino-beat",
+    "className": "Tango Latino / salsa",
+    "styles": [
+      {
+        "name": "Salsa",
+        "slug": "salsa"
+      }
+    ],
+    "day": "Monday",
+    "startTime": null,
+    "venue": null,
+    "venueShort": null,
+    "venueSlug": null,
+    "town": "Bournemouth",
+    "level": "Beginner",
+    "price": null,
+    "website": "latinobeat.co.uk",
+    "status": "To verify",
+    "notes": "Running 26 years; check venue and other nights",
+    "cancelledDates": []
+  },
+  {
+    "id": "BD013",
+    "slug": "anglo-dance-studios-salsa-lessons-couples-and-singles",
+    "provider": "Anglo Dance Studios",
+    "providerSlug": "anglo-dance-studios",
+    "className": "Salsa lessons (couples & singles)",
+    "styles": [
+      {
+        "name": "Salsa",
+        "slug": "salsa"
+      }
+    ],
+    "day": null,
+    "startTime": null,
+    "venue": "Anglo Dance Studios",
+    "venueShort": "Anglo Dance Studios",
+    "venueSlug": "anglo-dance-studios",
+    "town": "Bournemouth",
+    "level": "Beginner",
+    "price": null,
+    "website": "anglodance.co.uk",
+    "status": "To verify",
+    "notes": "Also offers private tuition",
+    "cancelledDates": []
+  },
+  {
+    "id": "BD014",
+    "slug": "cuban-salsa-enrique-perez-cuban-salsa-classes-and-social",
+    "provider": "Cuban salsa (Enrique Perez)",
+    "providerSlug": "cuban-salsa-enrique-perez",
+    "className": "Cuban salsa classes & social",
+    "styles": [
+      {
+        "name": "Salsa",
+        "slug": "salsa"
+      }
+    ],
+    "day": null,
+    "startTime": null,
+    "venue": null,
+    "venueShort": null,
+    "venueSlug": null,
+    "town": "Bournemouth",
+    "level": null,
+    "price": null,
+    "website": "Meetup: salsa dancing Bournemouth",
+    "status": "To verify",
+    "notes": "Covers Bournemouth, Poole & Christchurch",
+    "cancelledDates": []
+  },
+  {
+    "id": "BD015",
+    "slug": "ceroc-bournemouth-modern-jive",
+    "provider": "Ceroc Bournemouth",
+    "providerSlug": "ceroc-bournemouth",
+    "className": "Modern jive",
+    "styles": [
+      {
+        "name": "Modern Jive",
+        "slug": "modern-jive"
+      },
+      {
+        "name": "Ceroc",
+        "slug": "ceroc"
+      }
+    ],
+    "day": null,
+    "startTime": null,
+    "venue": "Bournemouth Pavilion",
+    "venueShort": "Bournemouth Pavilion",
+    "venueSlug": "bournemouth-pavilion",
+    "town": "Bournemouth",
+    "level": null,
+    "price": null,
+    "website": "ceroc.com",
+    "status": "To verify",
+    "notes": "Venue from keyword data",
+    "cancelledDates": []
+  },
+  {
+    "id": "BD016",
+    "slug": "ceroc-bournemouth-modern-jive-bd016",
+    "provider": "Ceroc Bournemouth",
+    "providerSlug": "ceroc-bournemouth",
+    "className": "Modern jive",
+    "styles": [
+      {
+        "name": "Modern Jive",
+        "slug": "modern-jive"
+      },
+      {
+        "name": "Ceroc",
+        "slug": "ceroc"
+      }
+    ],
+    "day": null,
+    "startTime": null,
+    "venue": "St Marks",
+    "venueShort": "St Marks",
+    "venueSlug": "st-marks",
+    "town": "Bournemouth",
+    "level": null,
+    "price": null,
+    "website": "ceroc.com",
+    "status": "To verify",
+    "notes": "Venue from keyword data",
+    "cancelledDates": []
+  }
+]
